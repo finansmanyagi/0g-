@@ -251,7 +251,8 @@ echo "0x$(0gchaind debug addr $(0gchaind keys show CÜZDAN-ADINI-YAZ -a) | grep 
 ```shell
 https://testnet.0g.explorers.guru/validators 
 ```
-Bu siteye gidiniz ve daha sonra arama çubuğuna 0g ile başlayan cüzdan adresini yapıştırınız. Daha sonra ise ilk tx işlemini bulunuz aşağıdaki fotoğraftaki gibİ
+Bu siteye gidiniz ve daha sonra arama çubuğuna 0g ile başlayan cüzdan adresini yapıştırınız.
+Daha sonra ise ilk tx işlemini bulunuz aşağıdaki fotoğraftaki gibi
 ![image](https://github.com/finansmanyagi/0g-/blob/finansmanyagi-asset/0g%20Kontrol.PNG)
 Burada Create Validator yazan satırdaki Hash bölümüne tıklıyoruz. (Bende 346.. ile devam ediyor sizde daha farklı olacaktır.)
 
