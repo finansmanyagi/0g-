@@ -246,6 +246,18 @@ echo "0x$(0gchaind debug addr $(0gchaind keys show CÜZDAN-ADINI-YAZ -a) | grep 
 0gchaind tx staking delegate $(0gchaind keys show cüzdanadınıyaz --bech val -a) 1000000ua0gi --from cüzdanadınızyaz -y
 ```
 
+## 🟢 Cüzdanının ilk işleminin tx'ini kopyalamak için sırasıyla aşağıdaki adımları takip ediniz
+
+```shell
+https://testnet.0g.explorers.guru/validators 
+```
+Bu siteye gidiniz ve daha sonra arama çubuğuna 0g ile başlayan cüzdan adresini yapıştırınız. Daha sonra ise ilk tx işlemini bulunuz aşağıdaki fotoğraftaki gibİ
+![image](https://github.com/finansmanyagi/0g-/blob/finansmanyagi-asset/0g%20Kontrol.PNG)
+Burada Create Validator yazan satırdaki Hash bölümüne tıklıyoruz. (Bende 346.. ile devam ediyor sizde daha farklı olacaktır.)
+
+Şimdi ise açılan sayfada Hash'i kopyalacağız.
+![image](https://github.com/finansmanyagi/0g-/blob/finansmanyagi-asset/0g%20Hash.PNG)
+
 ## 🟢 Unjail işlemi
 
 ```shell
