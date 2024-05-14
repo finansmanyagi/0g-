@@ -16,7 +16,7 @@
 
 - Bunlar max gereksinim daha düşükte çalıştırabilir !
 
-## 🟢 Bir önceki 0g Node'nu silmek için (Eğer  daha önceden 
+## 🟢 Bir önceki 0g Node'nu silmek için (Eğer daha önceden 0g Node'u kurmadıysanız burayı atlayabilirsiniz)
 ```shell
 sudo systemctl stop evmosd.service
 ```
