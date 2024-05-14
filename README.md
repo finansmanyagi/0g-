@@ -256,7 +256,7 @@ Daha sonra ise ilk tx işlemini bulunuz aşağıdaki fotoğraftaki gibi
 ![image](https://github.com/finansmanyagi/0g-/blob/finansmanyagi-asset/0g%20Kontrol.PNG)
 Burada Create Validator yazan satırdaki Hash bölümüne tıklıyoruz. (Bende 346.. ile devam ediyor sizde daha farklı olacaktır.)
 
-Şimdi ise açılan sayfada Hash'i kopyalacağız.
+Şimdi ise açılan sayfada Hash'i kopyalayacağız.
 ![image](https://github.com/finansmanyagi/0g-/blob/finansmanyagi-asset/0g%20Hash.PNG)
 
 ## 🟢 Unjail işlemi
