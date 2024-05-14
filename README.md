@@ -183,6 +183,14 @@ sudo journalctl -u 0gchaind.service -f --no-hostname -o cat
 ```shell
 curl -Ls https://raw.githubusercontent.com/Core-Node-Team/Testnet-TR/main/0G-Newton/addrbook.json > $HOME/.0gchain/config/addrbook.json
 ```
+## 🟢 Şimdi ise sistemi resetlememiz gerekli bunun içinde aşağıdaki adımları sırasıyla yapmanız gerekli
+```shell
+sudo systemctl stop0gchaind
+```
+
+```shell
+sudo systemctl daemon-reload
+```
 
 ## 🟢 Cüzdan oluşturma ( Eğer daha önceki testnete katıldıysanız aynı cüzdanı recover edin. İlk defa kuruyorsanız recover olan kodu kullanmayın.
 
