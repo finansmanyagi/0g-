@@ -2,6 +2,7 @@
 ```
 sudo apt update && sudo apt upgrade -y
 ```
+
 ```
 systemctl stop 0gchaind
 ```
