@@ -5,16 +5,12 @@
 
 </h1>
 
-
- * [Topluluk kanalımız](https://t.me/corenodechat)<br>
- * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
- * [Discord](https://discord.com/invite/0glabs)<br>
  * [Twitter](https://twitter.com/0G_labs)<br>
  * [0G Website](https://0g.ai/)<br>
  * [0G Blog](https://blog.0g.ai/)<br>
  * [0G gitbook/docs](https://zerogravity.gitbook.io/0g-doc/)<br>
  * [0G Telegram](https://t.me/web3_0glabs)<br>
- * [Blockchain Explorer](https://explorer.corenodehq.com/0G-Testnet.newton)<br>
+
 
 
 ## 💻 Sistem Gereksinimleri
